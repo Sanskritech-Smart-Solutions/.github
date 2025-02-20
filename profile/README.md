@@ -1,4 +1,4 @@
-<img src="Sanskritech_logo.png" style="height:72px;"/>
+<img src="/Sanskritech_logo.png" style="height:72px;"/>
 
 Transforming healthcare accessibility through innovative point-of-care diagnostic solutions. We're building the future of healthcare technology, one innovation at a time.
 
