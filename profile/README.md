@@ -43,17 +43,31 @@ We're always looking for passionate developers who want to make a difference in 
 - Creating accessible tech solutions
 - Making a real impact on people's lives
 
-Check out our [careers page](https://sanskritech.org/careers) or reach out to us!
-
 ## 📫 Connect With Us
 
 - 🌐 [Website](https://swayamhealth.com/)
 - 📧 [Email](mailto:info@sanskritech.com)
 - 📱 [LinkedIn](https://linkedin.com/company/sanskritech)
 
+## ⚠️ Intellectual Property Notice
+
+**IMPORTANT DISCLAIMER**
+
+All repositories, code, designs, algorithms, and documentation in this GitHub organization are the exclusive intellectual property of Sanskritech Smart Solutions Pvt. Ltd. These materials are proprietary and confidential.
+
+**By accessing these repositories, you acknowledge that:**
+
+1. All content is protected by intellectual property laws and belongs solely to Sanskritech Smart Solutions Pvt. Ltd.
+
+2. No part of these repositories may be copied, reproduced, distributed, transmitted, displayed, published, or used in any form without prior written permission from Sanskritech Smart Solutions Pvt. Ltd.
+
+3. All developers and collaborators with access to these repositories are bound by confidentiality agreements they have signed with Sanskritech Smart Solutions Pvt. Ltd.
+
+4. Unauthorized disclosure, distribution, or use of these materials may result in legal action.
+
 ## 📜 License
 
-Our public repositories are licensed under appropriate open-source licenses. Check individual repositories for specific license information.
+Our public repositories are licensed under proprietary licenses. Check individual repositories for specific license information.
 
 ---
 
